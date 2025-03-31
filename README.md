@@ -3,8 +3,9 @@
 <h3 align="center">Passionate IT Student || Exploring the Boundless World of Technology</h3><br>
   <ul>
 <!--     <li>🔭 I’m currently working on <strong>CloudPay</strong></li> -->
-    <li>🌱 I’m currently learning <strong>Mern,Spring,OOP with java...</strong></li>
-    <li>📫 How to reach me <strong>sdeshan960@gmail.com</strong></li>
+   <li> <strong>🌱 I’m currently learning <em>Mern,Spring,OOP with Java</em></strong><br></li>
+  <li><strong>📫 Reach me via: </strong>
+  <a href="mailto:sdeshan960@gmail.com">damidunayanajith2001@gmail.com</a></li>
   </ul>
 
 <!-- CONNECTION -->
