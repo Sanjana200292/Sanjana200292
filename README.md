@@ -10,7 +10,7 @@
 
 <!-- CONNECTION -->
 <hr>      
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">Connect with Me:</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjana-deshan-853909350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://web.facebook.com/profile.php?id=100087873432336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
@@ -85,17 +85,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
 </p>
-<!-- SUPPORT -->
-<hr>
-<p>
-  <h3 align="center">Support:</h3>
-  <p>
-    <a href="https://www.buymeacoffee.com/josuerv99">
-      <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="josuerv99"/>
-    </a>
-  </p>
-</p>
-   
+
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
