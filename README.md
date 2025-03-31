@@ -5,7 +5,7 @@
 <!--     <li>🔭 I’m currently working on <strong>CloudPay</strong></li> -->
    <li> <strong>🌱 I’m currently learning <em>Mern,Spring,OOP with Java</em></strong><br></li>
   <li><strong>📫 Reach me via: </strong>
-  <a href="mailto:sdeshan960@gmail.com">damidunayanajith2001@gmail.com</a></li>
+  <a href="mailto:sdeshan960@gmail.com">sdeshan960@gmail.com</a></li>
   </ul>
 
 <!-- CONNECTION -->
