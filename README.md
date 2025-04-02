@@ -3,7 +3,7 @@
 <h3 align="center">Passionate IT Student || Exploring the Boundless World of Technology</h3><br>
   <ul>
 <!--     <li>🔭 I’m currently working on <strong>CloudPay</strong></li> -->
-   <li> <strong>🌱 I’m currently learning <em>Mern,Spring,OOP with Java</em></strong><br></li>
+   <li> <strong>🌱 I’m currently learning <em>Mern,Spring,OOP with Java...</em></strong><br></li>
   <li><strong>📫 Reach me via: </strong>
   <a href="mailto:sdeshan960@gmail.com">sdeshan960@gmail.com</a></li>
   </ul>
