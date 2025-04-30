@@ -10,7 +10,7 @@
 
 <!-- CONNECTION -->
 <hr>      
-<h3 align="center">Connect with Me:</h3>
+<h3 align="center">Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sanjana-deshan-853909350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/josué-andrey-rojas-vega-4b4a05198" height="30" width="40" /></a>
   <a href="https://web.facebook.com/profile.php?id=100087873432336" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="josuerv729" height="30" width="40" /></a>
@@ -19,13 +19,11 @@
 
 <!-- LANGUAGES AND TOOLS -->
 <hr>
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools</h3>
 <!-- <div align="center">
   <img alt=" foodball life" src="/octocat/github.gif" width="750px">
 </div> -->
 
-<br><br>
-<h3><p align="center">  ────────────────────────── ─  🏋️‍♀️ Skills 🏋️‍♀️ ─ ────────────────────────── </p></h3> 
 <br>
 
 <p align="center">  
@@ -48,7 +46,7 @@
 <hr>
 <div style="display: block;">
 <p>
-  <h3 align="center">Stats:</h3>
+  <h3 align="center">Stats ────────────────────────── Stats ────────────────────────── </h3>
 <p>
     <a align="left">
       <p><img align="left" 
