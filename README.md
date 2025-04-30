@@ -28,7 +28,7 @@
 
 <p align="center">  
   <img src="https://go-skill-icons.vercel.app/api/icons?i=java,javascript,typescript,python,c,cpp" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,angular,vite,next" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,react,angular,vite" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,php" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,mongodb,firebase" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=gcp" />
