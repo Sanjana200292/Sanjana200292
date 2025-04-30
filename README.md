@@ -79,9 +79,6 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,anaconda,pytorch" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tomcat" />
 </p>
-
-
-
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
