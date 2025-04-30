@@ -45,9 +45,10 @@
 <!-- GITHUB STATS -->
 <hr>
 <div style="display: block;">
-<p><br>
+<p>
   <h3 align="center"> ────────────────────────── ─  📊 Stats 📊 ─ ────────────────────────── </h3>
 <p>
+  <br>
     <a align="left">
       <p><img align="left" 
   src="https://github-readme-stats.vercel.app/api/top-langs?username=Sanjana200292&show_icons=true&theme=dark&locale=en&hide=jupyter%20notebook,lex,&langs_count=8" alt="Sanjana200292" /></p></a>
