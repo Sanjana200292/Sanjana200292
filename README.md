@@ -80,39 +80,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tomcat" />
 </p>
 
-<br><br>
-<h3><p align="center">  ────────────────────────── ─  📊 Stats 📊 ─ ────────────────────────── </p></h3> 
-<br>
 
-<div align="center">
-  <br>
-  <p><!-- To force refresh: change the value of 'v' (e.g., v=1 to v=2) to bypass GitHub cache -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=true&v=9" alt="JordanCJ7"></p>
-  <br>
-  <p>&nbsp;<img align="center" src="https://nirzak-streak-stats.vercel.app/?user=JordanCJ7&theme=vision-friendly-dark&hide_border=false&v=9" /></p>
-  <br>
-  <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JordanCJ7&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&v=9" /></p>
-</div>
-
-
-<br><br>
-<h3><p align="center">  ─────────────────────── ─  🏆 Achievements 🏆 ─ ─────────────────────── </p></h3> 
-<br>
-
-<div align="center">
-  <br>
-  <p>
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=JordanCJ7&theme=radical&no-frame=false&no-bg=true&margin-w=1" alt="Quote Image"></p>
-</div>
-
-<div align="center">
-  <p>&nbsp;</p>
-  <p>
-  <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote Image"></p>
-  <br>
-  Thanks for visiting! Let's code the future together... 🚀✨
-</div>
 
 <!-- GITHUB STATS -->
 <hr>
