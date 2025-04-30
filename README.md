@@ -38,7 +38,7 @@
   <img src="https://go-skill-icons.vercel.app/api/icons?i=vercel" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=figma,canva" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=graphql,postman,api" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,webstorm,eclipse,androidstudio" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode,visualstudio,idea,webstorm,eclipse" />
 <!--   <img src="https://go-skill-icons.vercel.app/api/icons?i=tensorflow,anaconda,pytorch" /> -->
   <img src="https://go-skill-icons.vercel.app/api/icons?i=redux,tomcat" />
 </p>
