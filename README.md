@@ -20,9 +20,9 @@
 <!-- LANGUAGES AND TOOLS -->
 <hr>
 <h3 align="center">Languages and Tools:</h3>
-<div align="center">
+<!-- <div align="center">
   <img alt=" foodball life" src="/octocat/github.gif" width="750px">
-</div>
+</div> -->
 
 
 <h1 align="center">
