@@ -24,41 +24,6 @@
   <img alt=" foodball life" src="/octocat/github.gif" width="750px">
 </div> -->
 
-
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=cursive&size=35&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hello+Folks!+🌍;+I'm+Janitha+Gamage!+🤠;+Intern+Project+Manager+💼;+FullStack+Developer+👨‍💻;+Software+Engineering+Undergratuate+🎓;+Postman+Student+Expert+✏️;+Microsoft+Student+ambassador+🏅;" />
-</h1>
-
-<h3><p align="center">  ────────────────────────── ─  ⚽️ Bio ⚽️ ─ ────────────────────────── </p></h3> 
-
-<h3 align="center"> A dedicated Full-Stack Developer and Software Engineering undergraduate at SLIIT, <br /> passionate about crafting innovative solutions and driving impactful projects.</h3>
-
-<div align="center">
-  <img alt="Football-life" src="/octocat/octocat-JordanCJ7.png" width="300px">
-</div>
-
-<p align="center"> 
-  <a href="https://github.com/JordanCJ7"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"></a>
-  <a href="https://linkedin.com/in//janitha-gamage-742b5928b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://instagram.com/yourusername"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"></a>
-  <a href="https://x.com/JanithaGamage01"> <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X (formerly Twitter)"></a>
-  <a href="mailto:janithasuranjana2001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-</p>
-
-<div align="center">
-
-### 🔥 Rapid Fire
-
-🔭 **Current Focus**: Advancing my expertise in **full-stack development** through impactful projects at **Flashboard**.  
-🌱 **Continuous Learning**: Diving into **blockchain development**, **AI-driven automation**, and **IoT solutions** to expand my horizons.  
-👯 **Collaboration Goals**: Excited to work on **decentralized applications**, **secure software systems**, and **smart device integrations**.  
-🌍 **Areas of Exploration**: Delving into **Machine Learning** and **Power BI** to unlock data-driven insights.  
-<!-- 📫 Portfolio: [https://portfolio-janindu.vercel.app/](https://portfolio-janindu.vercel.app/) -->
-♏ Nickname: **CJ7**  
-⚡ Fun fact: **I love gaming and AI-driven web developing!**  
-
-</div>
-
 <br><br>
 <h3><p align="center">  ────────────────────────── ─  🏋️‍♀️ Skills 🏋️‍♀️ ─ ────────────────────────── </p></h3> 
 <br>
